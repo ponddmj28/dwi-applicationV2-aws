@@ -1,3 +1,7 @@
+# Drop Wire Installation
+![alt text](https://github.com/ponddmj28/dwi-applicationV2-aws/blob/main/messageImage_1611237847103.jpg?Draw=true)
+
+
 # Upgrade as of 21/01/2021
 
 As previous [article](https://github.com/ponddmj28/dwi-kubernate-gcp) we builded serveral projects for tracking and managements jobs so now we upgraded technologies and applied Circuit Breaker Pattern ,Ribbon Client LoadBalancing,Zuul Gateway and deploy it go AWS Kubernates
