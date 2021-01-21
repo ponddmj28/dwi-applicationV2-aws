@@ -6,7 +6,7 @@
 
 As previous [article](https://github.com/ponddmj28/dwi-kubernate-gcp) we builded serveral projects for tracking and managements jobs so now we upgraded technologies and applied Circuit Breaker Pattern ,Ribbon Client LoadBalancing,Zuul Gateway and deploy it go AWS Kubernates
 
-### what we gained from this pactices
+### what benefits from this pactices
 - Spring Config Server 
   - how to setting up project and config either server and client for local till go up cloud
   - how it's helping us in Cloud
